@@ -1,0 +1,7 @@
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\obj\Debug\Ferry.Test.csprojResolveAssemblyReference.cache
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\bin\Debug\Ferry.Test.dll
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\bin\Debug\Ferry.Test.pdb
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\bin\Debug\Ferry.dll
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\bin\Debug\Ferry.pdb
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\obj\Debug\Ferry.Test.dll
+c:\Users\CodeBox\documents\visual studio 2013\Projects\Ferry\Ferry.Test\obj\Debug\Ferry.Test.pdb
